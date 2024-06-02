@@ -1,0 +1,16 @@
+.Frame {
+  border-radius: 4px;
+  background-color: #e84d84;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: -2rem;
+}
+.custom-btn-submit {
+  background-color: #e84d84;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  width: 100%;
+  text-align: center;
+  cursor: pointer;
+}
